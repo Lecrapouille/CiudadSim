@@ -1,0 +1,1 @@
+metalib=lib('SCI/macros/metanet/');save('SCI/macros/metanet/lib',metalib);exit
